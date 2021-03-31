@@ -1,6 +1,7 @@
 # GithubApi
 # API-Mohammed-Amjad
-Live Link:
+Live Link: https://gsg-fc02.github.io/GithubApi/
+Live api : https://api.github.com/users/ <Your name>
 
 Github Profiles Project using the Fetch API to get the data from the Github API.
 It comes with a profile picture, a link to the profile name, and finally a personal Bio
